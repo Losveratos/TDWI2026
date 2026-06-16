@@ -1,0 +1,5 @@
+﻿AccountKey;AccountName;AccountGroup;Unit;SortOrder
+1;Volume;Operativ;hl;10
+2;Net Sales;GuV;EUR;20
+3;Discounts;GuV;EUR;30
+4;COGS;GuV;EUR;40

@@ -1,0 +1,13 @@
+﻿CustomerKey;CustomerName;CustomerType;Street;PostalCode;City;Region;Country;CustomerSince;KeyAccountManager
+1;Albert Česká republika s.r.o.;Retail Chain;Radlická 117;158 00;Praha;CZ-Prag;Czechia;2006;J. Nováková
+2;BILLA spol. s r.o.;Retail Chain;Modletice 67;251 01;Říčany;CZ-Mitte;Czechia;2007;J. Nováková
+3;Kaufland Česká republika v.o.s.;Retail Chain;Bělohorská 2428;169 00;Praha;CZ-Prag;Czechia;2008;M. Dvořák
+4;Tesco Stores ČR a.s.;Retail Chain;Vršovická 1527;100 00;Praha;CZ-Prag;Czechia;2005;M. Dvořák
+5;Lidl Česká republika s.r.o.;Retail Chain;Nárožní 1359;158 00;Praha;CZ-Prag;Czechia;2010;M. Dvořák
+6;MAKRO Cash & Carry ČR s.r.o.;Wholesale;Jeremiášova 1249;155 00;Praha;CZ-Prag;Czechia;2004;P. Horák
+7;PramenPlus Distribuce s.r.o.;Wholesale;Tuřanka 1222;627 00;Brno;CZ-Mähren;Czechia;2009;P. Horák
+8;Ambiente (Lokál) Restaurace;On-Trade;Dlouhá 731;110 00;Praha;CZ-Prag;Czechia;2012;L. Marešová
+9;Kolkovna Group s.r.o.;On-Trade;V Kolkovně 910;110 00;Praha;CZ-Prag;Czechia;2013;L. Marešová
+10;Getränke Hoffmann GmbH;Export;Großenhainer Str. 9;01097;Dresden;DE-Sachsen;Germany;2015;S. Berger
+11;TESCO Stores SR a.s.;Export;Kamenné nám. 1/A;815 61;Bratislava;SK-West;Slovakia;2011;S. Berger
+12;Żabka Polska sp. z o.o.;Export;ul. Stanisława Matyi 8;61-586;Poznań;PL-West;Poland;2017;S. Berger
