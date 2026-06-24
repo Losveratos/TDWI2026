@@ -1,2 +1,2 @@
 # TDWI2026
-Das sind alle Matirials für TDWI 2026
+Das sind alle Materials für TDWI 2026
